@@ -1,0 +1,21 @@
+
+--------------------------------------------------------------------
+Requirements:
+	done	do
+	x	start with 10 coins
+	x	1 coin = 25c
+		can bet 1-4 coins
+		if 0 entered as bet end game
+		at end disp num coins left and money value
+	??	3 slots - 3 possible pieces: bell, grape, cherry
+
+--------------------------------------------------------------------
+Combo:					Pays:
+	Bell	Bell	Bell	10
+	Grapes	Grapes	Grapes	7
+	Cherry	Cherry	Cherry	5
+	Cherry	Cherry	?		3
+	Cherry	?		?		1
+
+--------------------------------------------------------------------
+Need to ask Jonathan about only 3 fruit choices/elements.
