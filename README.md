@@ -2,6 +2,7 @@ NCI-SoftDev_S1
 ==============
 
 HDSSD - SoftDev - Semester 1
+
 Work done for my NCI degree in Software Development
 
 
@@ -11,8 +12,8 @@ Labs
 - lab00			- problem solving		- group
 - lab01 		- vars, arith			- done
 - lab02 		- vars, methods			- done
-- lab03 		- instatiable classes 	- 4 & 5
-- lab04 		- selection statements	- 4 & 5 (also tidy 3+)
+- lab03 		- instatiable classes 	- done (4/5 basic - better vers in college)
+- lab04 		- selection statements	- done (4/5 basic - better vers in college)
 - lab05 		- loops					- done
 - lab06 		- arrays				- done
 - lab07 		- string, char			- done
